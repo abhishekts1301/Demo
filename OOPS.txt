@@ -1,0 +1,29 @@
+Class: is blue print of an object which Contains properties/states and behaviour of objects.
+-->it is a plotform whichcontains states and behaviour.
+
+eg.Mobile is an Object
+States:cost,color,brand,ram
+Behaviour:camera,call,meassage,playng games
+
+Object: is real world entity which physically exists.
+
+Syntax of Class
+
+public class ClassName{
+
+	data members;
+	constructor
+	methods;
+	blocks
+	implementation;
+}
+
+Data Members:The Variables which declared within the body of Class.
+
+Funtion memebers:The methods which are declared within the body of class.
+
+Static Member:The DM and Fm which are declared using static keyword.
+Non-Static Members:The DM and Fm which are declared using without static keyword.
+
+1.Static members which present in Same class is accessed by member name or using ClassaName.memberName.
+2.Static members which are present in different class is accessed by always ClassName.memberName.
